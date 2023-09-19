@@ -82,7 +82,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 ## Contributing
 
-Contributions are welcome! If you encounter a bug or have suggestions for improvements, please [create an issue](https://github.com/Send-Email-with-Laravel/issues) or submit a pull request.
+Contributions are welcome! If you encounter a bug or have suggestions for improvements, please [create an issue](https://github.com/sajithnsilvame/Send-Email-with-Laravel/issues) or submit a pull request.
 
 ## Author
 
